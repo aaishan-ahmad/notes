@@ -8,7 +8,7 @@
 ### why
 
 - Microservices, Data Processing, Continuous Integration and Delivery, Containers as a Service.  
-    ![[docker2.png]]   
+    ![[/_resource/docker2.png]]   
     ![[docker5.png]]
     ![[docker3.png]]
 
