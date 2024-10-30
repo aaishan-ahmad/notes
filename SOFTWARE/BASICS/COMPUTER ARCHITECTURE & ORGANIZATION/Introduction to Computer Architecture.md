@@ -1,4 +1,4 @@
-k## Computer 
+## Computer 
 - process information, and yield meaningful results.
 - Architecture :The view of a computer presented to software designers.
 - Organisation : The actual implementation of a computer in hardware.
