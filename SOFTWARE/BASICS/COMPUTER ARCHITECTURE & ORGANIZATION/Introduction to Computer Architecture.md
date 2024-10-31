@@ -17,7 +17,7 @@
 ![alt](_resource/Pastedimage20241019124051.png)
 
 ## computer vs our brain
-![[Pasted image 20241019124328.png]]
+![alt](_resource/Pasted%20image%2020241019124328.png)
 
 
 
