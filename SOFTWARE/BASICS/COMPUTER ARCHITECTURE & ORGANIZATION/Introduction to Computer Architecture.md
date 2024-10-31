@@ -1,4 +1,4 @@
-## Computer 
+### Computer 
 - process information, and yield meaningful results.
 - Architecture :The view of a computer presented to software designers.
 - Organisation : The actual implementation of a computer in hardware.
@@ -6,7 +6,7 @@
     - desktop computer
 	 - other : watch , calculate,
 
-## Desktop computer 
+### Desktop computer 
 - **main components (3):**
 	- cpu / processor / computer
 	- main memory / ram
@@ -14,7 +14,7 @@
 - **peripheral components** 
 	 - mouse , keyboard : for input
 	 - moniter , printer : for output
-![[Pasted image 20241019124051.png]]
+![alt](_resource/Pastedimage20241019124051.png)
 
 ## computer vs our brain
 ![[Pasted image 20241019124328.png]]

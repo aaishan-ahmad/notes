@@ -6,7 +6,7 @@
 ###### H6
 
 *italic*  
-*_bold_*  
+**bold**  
 ***bold and italic***  
 ~~strikethrough~~
 
@@ -32,4 +32,5 @@
 | Row 1 | Row 1 |  
 | Row 2 | R
 
-[link with basic](BASIC)
+![imgae](https://i.sstatic.net/FJ6FY.jpg)
+[link click to ](BASIC)
