@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
+                "file": "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Computer Architecture"
+              "title": "SHELL SCRIPTING"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
+                "file": "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction to Computer Architecture"
+              "title": "Outgoing links from SHELL SCRIPTING"
             }
           },
           {
@@ -201,8 +201,8 @@
   },
   "active": "3c1396fcc5c6e458",
   "lastOpenFiles": [
-    "Pastedimage20201019124051.png.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
+    "Pastedimage20201019124051.png.md",
     "_resource/Pastedimage20241019124051.png",
     "_resource/Pasted image 20241020122251.png",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",

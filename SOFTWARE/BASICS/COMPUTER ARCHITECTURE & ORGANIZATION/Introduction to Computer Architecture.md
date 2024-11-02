@@ -14,6 +14,7 @@
 - **peripheral components** 
 	 - mouse , keyboard : for input
 	 - moniter , printer : for output
+
 ![alt](_resource/Pastedimage20241019124051.png)
 
 ## computer vs our brain
