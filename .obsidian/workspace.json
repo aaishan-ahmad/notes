@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
+                "file": "SOFTWARE/BASICS/NETWORKING/Classification of networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SHELL SCRIPTING"
+              "title": "Classification of networks"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
+                "file": "SOFTWARE/BASICS/NETWORKING/Classification of networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SHELL SCRIPTING"
+              "title": "Outgoing links from Classification of networks"
             }
           },
           {
@@ -201,11 +201,14 @@
   },
   "active": "3c1396fcc5c6e458",
   "lastOpenFiles": [
+    "SOFTWARE/BASICS/NETWORKING/Introduction.md",
+    "SOFTWARE/BASICS/NETWORKING/Classification of networks.md",
+    "SOFTWARE/BASICS/NETWORKING/0.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
+    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
     "Pastedimage20201019124051.png.md",
     "_resource/Pastedimage20241019124051.png",
     "_resource/Pasted image 20241020122251.png",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
     "Pasted image 20241029182140.png",
     "_resource/Pasted.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/CSS.md",
@@ -227,9 +230,6 @@
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/YARN.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/TYPESCRIPT.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/TAILWINDCSS.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/REDIS.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/PRISMA.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/PNPM.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES",
     "SOFTWARE/CYBER SECURITY/Beginner level",
     "SOFTWARE/PROGRAMMING LANGUAGE/C",
