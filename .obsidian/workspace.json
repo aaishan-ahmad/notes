@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/NETWORKING/Classification of networks.md",
+                "file": "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classification of networks"
+              "title": "Number System"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTWARE/BASICS/NETWORKING/Classification of networks.md",
+                "file": "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Classification of networks"
+              "title": "Outgoing links from Number System"
             }
           },
           {
@@ -199,10 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c1396fcc5c6e458",
+  "active": "58565857a31aac62",
   "lastOpenFiles": [
-    "SOFTWARE/BASICS/NETWORKING/Introduction.md",
     "SOFTWARE/BASICS/NETWORKING/Classification of networks.md",
+    "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
+    "SOFTWARE/OTHER/MATH FOR PROGRAMMER",
+    "SOFTWARE/BASICS/NETWORKING/Introduction.md",
     "SOFTWARE/BASICS/NETWORKING/0.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
@@ -229,9 +231,8 @@
     "SOFTWARE/OTHER/BASIC/2. DBMS.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/YARN.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/TYPESCRIPT.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/TAILWINDCSS.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES",
-    "SOFTWARE/CYBER SECURITY/Beginner level",
+    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING",
     "SOFTWARE/PROGRAMMING LANGUAGE/C",
     "SOFTWARE/PROGRAMMING LANGUAGE/XML",
     "SOFTWARE/PROGRAMMING LANGUAGE/HTML",
@@ -239,7 +240,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/SWIFT",
     "SOFTWARE/PROGRAMMING LANGUAGE/GOLANGE",
     "SOFTWARE/PROGRAMMING LANGUAGE/RUST",
-    "SOFTWARE/PROGRAMMING LANGUAGE/R",
     "_resource/cover/Untitled.png",
     "_resource/cover/p.png",
     "_resource/cover/cover.png",
