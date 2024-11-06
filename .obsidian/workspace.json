@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Number System"
             }
+          },
+          {
+            "id": "9642a07f8252b26f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58565857a31aac62",
+  "active": "9642a07f8252b26f",
   "lastOpenFiles": [
     "SOFTWARE/BASICS/NETWORKING/Classification of networks.md",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
