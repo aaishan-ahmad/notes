@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
+                "file": "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number System"
-            }
-          },
-          {
-            "id": "9642a07f8252b26f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "3. Networking devices"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
+                "file": "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Number System"
+              "title": "Outgoing links from 3. Networking devices"
             }
           },
           {
@@ -212,19 +199,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9642a07f8252b26f",
+  "active": "3c1396fcc5c6e458",
   "lastOpenFiles": [
-    "SOFTWARE/BASICS/NETWORKING/Classification of networks.md",
+    "SOFTWARE/BASICS/NETWORKING/2. Classification of networks.md",
+    "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
+    "_resource/Pasted image 20241106130040.png",
+    "_resource/Pasted image 20241106125008.png",
+    "_resource/Pasted image 20241106124624.png",
+    "SOFTWARE/BASICS/NETWORKING/4. Topology.md",
+    "_resource/Pasted image 20241106115549.png",
+    "_resource/Pasted image 20241106115314.png",
+    "SOFTWARE/BASICS/NETWORKING/1. Introduction.md",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER",
-    "SOFTWARE/BASICS/NETWORKING/Introduction.md",
     "SOFTWARE/BASICS/NETWORKING/0.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
     "Pastedimage20201019124051.png.md",
     "_resource/Pastedimage20241019124051.png",
     "_resource/Pasted image 20241020122251.png",
-    "Pasted image 20241029182140.png",
+    "_resource/Pasted image 20241029182140.png",
     "_resource/Pasted.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/CSS.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/POSTGRESQL.md",
@@ -241,9 +235,6 @@
     "SOFTWARE/OTHER/BASIC/11. COMPUTER NETWORK.md",
     "SOFTWARE/BASICS/DSA/Introduction.md",
     "SOFTWARE/OTHER/BASIC/3. SOFTWERE ENGINERING.md",
-    "SOFTWARE/OTHER/BASIC/2. DBMS.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/YARN.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/TYPESCRIPT.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES",
     "SOFTWARE/CYBER SECURITY/ETHICAL HACKING",
     "SOFTWARE/PROGRAMMING LANGUAGE/C",
@@ -255,11 +246,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/RUST",
     "_resource/cover/Untitled.png",
     "_resource/cover/p.png",
-    "_resource/cover/cover.png",
-    "_resource/Pasted image 20241021112850.png",
-    "_resource/Pasted image 20241021113316.png",
-    "_resource/Pasted image 20241021113248.png",
-    "Pasted image 20241020143158.png",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
     "_resource/Untitled.canvas"
