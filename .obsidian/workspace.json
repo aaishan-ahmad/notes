@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
+                "file": "SOFTWARE/BASICS/NETWORKING/6. Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Networking devices"
+              "title": "6. Model"
+            }
+          },
+          {
+            "id": "ec88cb488d8e998a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -93,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
+                "file": "SOFTWARE/BASICS/NETWORKING/6. Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Networking devices"
+              "title": "Outgoing links from 6. Model"
             }
           },
           {
@@ -201,29 +211,36 @@
   },
   "active": "3c1396fcc5c6e458",
   "lastOpenFiles": [
-    "_resource/cover/ethicalhacking.png",
-    "_resource/cover/frameworks.png",
-    "_resource/cover/devops.png",
-    "_resource/cover/toolandtechnologies.png",
+    "_resource/Pasted image 20241107191119.png",
+    "_resource/Pasted image 20241107183338.png",
+    "SOFTWARE/BASICS/NETWORKING/6. Model.md",
+    "_resource/Pasted image 20241107180243.png",
+    "_resource/Pasted image 20241107151528.png",
+    "SOFTWARE/BASICS/NETWORKING/5. Data communication.md",
+    "_resource/Pasted image 20241107095318.png",
+    "_resource/walkie-talkie.png",
+    "_resource/Pasted image 20241107094520.png",
+    "_resource/Pasted image 20241107094211.png",
+    "SOFTWARE/BASICS/NETWORKING/2. Classification of networks.md",
+    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md",
+    "_resource/Pasted image 20241107084645.png",
+    "Pasted image 20241107084645.png",
+    "SOFTWARE/BASICS/NETWORKING/4. Topology.md",
+    "SOFTWARE/BASICS/NETWORKING/0.md",
+    "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
+    "SOFTWARE/BASICS/NETWORKING/Untitled",
+    "SOFTWARE/BASICS/SOFTWARE ENGINEERING",
+    "SOFTWARE/BASICS/COMPUTER GRAPHICS",
+    "SOFTWARE/BASICS/DBMS",
+    "_resource/Pasted image 20241106230022.png",
     "_resource/cover/project.psxprj",
     "_resource/cover/project.psxprj.010b91bd",
-    "_resource/cover/mathforprogramming.png",
-    "SOFTWARE/BASICS/NETWORKING/2. Classification of networks.md",
-    "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
-    "_resource/Pasted image 20241106130040.png",
-    "_resource/Pasted image 20241106125008.png",
-    "_resource/Pasted image 20241106124624.png",
-    "SOFTWARE/BASICS/NETWORKING/4. Topology.md",
-    "_resource/Pasted image 20241106115549.png",
-    "_resource/Pasted image 20241106115314.png",
     "SOFTWARE/BASICS/NETWORKING/1. Introduction.md",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER",
-    "SOFTWARE/BASICS/NETWORKING/0.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
     "Pastedimage20201019124051.png.md",
-    "_resource/Pastedimage20241019124051.png",
     "_resource/Pasted.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/CSS.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/POSTGRESQL.md",
@@ -232,21 +249,14 @@
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/OPEN SOURCE.md",
     "SOFTWARE/OTHER/BASIC/10. LINUX COMMAND.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/YAML.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md",
     "SOFTWARE/OTHER/BASIC/7. DSA.md",
     "SOFTWARE/OTHER/BASIC/6. GIT.md",
     "SOFTWARE/OTHER/FRAMEWORK/dot NET.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MATH FOR PROGRAMMING.md",
     "SOFTWARE/OTHER/BASIC/11. COMPUTER NETWORK.md",
-    "SOFTWARE/BASICS/DSA/Introduction.md",
-    "SOFTWARE/OTHER/BASIC/3. SOFTWERE ENGINERING.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES",
     "SOFTWARE/CYBER SECURITY/ETHICAL HACKING",
     "SOFTWARE/PROGRAMMING LANGUAGE/C",
-    "SOFTWARE/PROGRAMMING LANGUAGE/XML",
-    "SOFTWARE/PROGRAMMING LANGUAGE/HTML",
-    "SOFTWARE/PROGRAMMING LANGUAGE/SQL",
-    "SOFTWARE/PROGRAMMING LANGUAGE/SWIFT",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
     "_resource/Untitled.canvas"
