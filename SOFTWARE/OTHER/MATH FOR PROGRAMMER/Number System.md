@@ -1,1 +1,0 @@
-Number system use to count

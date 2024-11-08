@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "110eeb3fd7a97907",
+        "id": "ca2cdfad7c4f4942",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1396fcc5c6e458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOFTWARE/BASICS/NETWORKING/6. Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Model"
-            }
-          },
-          {
-            "id": "ec88cb488d8e998a",
+            "id": "e906b39c793ea393",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -103,12 +89,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTWARE/BASICS/NETWORKING/6. Model.md",
+                "file": "SOFTWARE/OTHER/MARKDOWN/MARKDOWN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. Model"
+              "title": "Outgoing links from MARKDOWN"
             }
           },
           {
@@ -209,22 +195,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c1396fcc5c6e458",
+  "active": "58565857a31aac62",
   "lastOpenFiles": [
-    "_resource/Pasted image 20241107191119.png",
-    "_resource/Pasted image 20241107183338.png",
+    "_resource/cover/gitgithub.png",
+    "_resource/cover/swift.png",
+    "_resource/cover/rust.png",
+    "_resource/cover/golang.png",
+    "_resource/cover/r.png",
+    "_resource/cover/java.png",
+    "_resource/cover/js.png",
+    "_resource/cover/python.png",
+    "_resource/cover/cpp.png",
+    "_resource/cover/csharp.png",
+    "_resource/cover/clanguage.png",
+    "SOFTWARE/OTHER/SHELL SCRIPTING",
+    "SOFTWARE/OTHER/GIT AND GITHUB",
+    "SOFTWARE/OTHER/MATH FOR PROGRAMMER/MATH FOR PROGRAMMING.md",
+    "SOFTWARE/OTHER/MARKDOWN",
     "SOFTWARE/BASICS/NETWORKING/6. Model.md",
-    "_resource/Pasted image 20241107180243.png",
-    "_resource/Pasted image 20241107151528.png",
+    "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
     "SOFTWARE/BASICS/NETWORKING/5. Data communication.md",
-    "_resource/Pasted image 20241107095318.png",
-    "_resource/walkie-talkie.png",
-    "_resource/Pasted image 20241107094520.png",
-    "_resource/Pasted image 20241107094211.png",
     "SOFTWARE/BASICS/NETWORKING/2. Classification of networks.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md",
-    "_resource/Pasted image 20241107084645.png",
-    "Pasted image 20241107084645.png",
+    "SOFTWARE/OTHER/MARKDOWN/MARKDOWN.md",
     "SOFTWARE/BASICS/NETWORKING/4. Topology.md",
     "SOFTWARE/BASICS/NETWORKING/0.md",
     "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
@@ -232,31 +224,25 @@
     "SOFTWARE/BASICS/SOFTWARE ENGINEERING",
     "SOFTWARE/BASICS/COMPUTER GRAPHICS",
     "SOFTWARE/BASICS/DBMS",
-    "_resource/Pasted image 20241106230022.png",
     "_resource/cover/project.psxprj",
     "_resource/cover/project.psxprj.010b91bd",
     "SOFTWARE/BASICS/NETWORKING/1. Introduction.md",
-    "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/SHELL SCRIPTING.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/SHELL SCRIPTING.md",
     "Pastedimage20201019124051.png.md",
     "_resource/Pasted.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/CSS.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/POSTGRESQL.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/NODE JS.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/GITHUB & GIT.md",
+    "SOFTWARE/OTHER/GIT AND GITHUB/GITHUB & GIT.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/OPEN SOURCE.md",
     "SOFTWARE/OTHER/BASIC/10. LINUX COMMAND.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/YAML.md",
     "SOFTWARE/OTHER/BASIC/7. DSA.md",
     "SOFTWARE/OTHER/BASIC/6. GIT.md",
     "SOFTWARE/OTHER/FRAMEWORK/dot NET.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MATH FOR PROGRAMMING.md",
     "SOFTWARE/OTHER/BASIC/11. COMPUTER NETWORK.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES",
-    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
     "_resource/Untitled.canvas"
