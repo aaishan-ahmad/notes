@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/OTHER/SHELL SCRIPTING/SHELL SCRIPTING.md",
+                "file": "SOFTWARE/OTHER/SHELL SCRIPTING/9. Advance Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SHELL SCRIPTING"
+              "title": "9. Advance Concept"
             }
           }
         ]
@@ -93,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTWARE/OTHER/SHELL SCRIPTING/SHELL SCRIPTING.md",
+                "file": "SOFTWARE/OTHER/SHELL SCRIPTING/9. Advance Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SHELL SCRIPTING"
+              "title": "Outgoing links from 9. Advance Concept"
             }
           },
           {
@@ -199,8 +199,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58565857a31aac62",
+  "active": "e906b39c793ea393",
   "lastOpenFiles": [
+    "SOFTWARE/OTHER/SHELL SCRIPTING/SHELL SCRIPTING.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/9. Advance Concept.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/8. Files.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/7. Function.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/4. Variable.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/6. Operator.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/0. Syllabus.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/3. Input Output.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/2. Common Commands.md",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/1. Introduction.md",
     "_resource/cover/shellscripting.png",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md",
     "_resource/cover/gitgithub.png",
@@ -212,7 +223,6 @@
     "_resource/cover/js.png",
     "_resource/cover/python.png",
     "_resource/cover/cpp.png",
-    "_resource/cover/csharp.png",
     "SOFTWARE/OTHER/SHELL SCRIPTING",
     "SOFTWARE/OTHER/GIT AND GITHUB",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER/MATH FOR PROGRAMMING.md",
@@ -233,20 +243,10 @@
     "SOFTWARE/BASICS/NETWORKING/1. Introduction.md",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/Introduction to Computer Architecture.md",
-    "SOFTWARE/OTHER/SHELL SCRIPTING/SHELL SCRIPTING.md",
     "Pastedimage20201019124051.png.md",
     "_resource/Pasted.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/CSS.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/POSTGRESQL.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/NODE JS.md",
-    "SOFTWARE/OTHER/GIT AND GITHUB/GITHUB & GIT.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/OPEN SOURCE.md",
-    "SOFTWARE/OTHER/BASIC/10. LINUX COMMAND.md",
-    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/YAML.md",
-    "SOFTWARE/OTHER/BASIC/7. DSA.md",
-    "SOFTWARE/OTHER/BASIC/6. GIT.md",
-    "SOFTWARE/OTHER/FRAMEWORK/dot NET.md",
-    "SOFTWARE/OTHER/BASIC/11. COMPUTER NETWORK.md",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
     "_resource/Untitled.canvas"
