@@ -11,10 +11,14 @@
             "id": "e906b39c793ea393",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SOFTWARE/OTHER/SHELL SCRIPTING/SHELL SCRIPTING.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SHELL SCRIPTING"
             }
           }
         ]
@@ -89,12 +93,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOFTWARE/OTHER/MARKDOWN/MARKDOWN.md",
+                "file": "SOFTWARE/OTHER/SHELL SCRIPTING/SHELL SCRIPTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MARKDOWN"
+              "title": "Outgoing links from SHELL SCRIPTING"
             }
           },
           {
@@ -197,6 +201,8 @@
   },
   "active": "58565857a31aac62",
   "lastOpenFiles": [
+    "_resource/cover/shellscripting.png",
+    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md",
     "_resource/cover/gitgithub.png",
     "_resource/cover/swift.png",
     "_resource/cover/rust.png",
@@ -207,7 +213,6 @@
     "_resource/cover/python.png",
     "_resource/cover/cpp.png",
     "_resource/cover/csharp.png",
-    "_resource/cover/clanguage.png",
     "SOFTWARE/OTHER/SHELL SCRIPTING",
     "SOFTWARE/OTHER/GIT AND GITHUB",
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER/MATH FOR PROGRAMMING.md",
@@ -216,7 +221,6 @@
     "SOFTWARE/OTHER/MATH FOR PROGRAMMER/Number System.md",
     "SOFTWARE/BASICS/NETWORKING/5. Data communication.md",
     "SOFTWARE/BASICS/NETWORKING/2. Classification of networks.md",
-    "SOFTWARE/OTHER/MARKDOWN/MARKDOWN.md",
     "SOFTWARE/BASICS/NETWORKING/4. Topology.md",
     "SOFTWARE/BASICS/NETWORKING/0.md",
     "SOFTWARE/BASICS/NETWORKING/3. Networking devices.md",
