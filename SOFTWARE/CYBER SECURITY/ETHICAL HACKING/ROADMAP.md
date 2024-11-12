@@ -1,4 +1,4 @@
-# Syllabus
+### Syllabus
 ### 1. Computer Architecture / Fundamental IT Skills
 ### 2. Networking / Computer Network
 ### 3. Operating System
@@ -6,7 +6,7 @@
 ### 5. Cloud  Knowledge
 ### 6. Programming  Knowledge
 
-# Certifications
+### Certifications
 ### Beginner Certifications
 - CompTIA A+
 - CompTIA Linux+  

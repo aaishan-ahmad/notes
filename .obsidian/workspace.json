@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6498bb9c0bb20141",
+            "id": "afdc26fee02c9626",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "afdc26fee02c9626",
+            "id": "1469cb5d6996f3e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/basics tool.md",
+                "file": "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/5.logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basics tool"
+              "title": "5.logs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,11 +178,15 @@
   },
   "active": "afdc26fee02c9626",
   "lastOpenFiles": [
+    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/4.lolbins.md",
+    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/5.logs.md",
     "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/ROADMAP.md",
-    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/basics tool.md",
+    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/2.frameworks.md",
+    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/3.siem and sorn.md",
+    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/1.basics tool.md",
+    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/1.common hacking tools.md",
     "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/0. syllabus and resources.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/0. syllabus & resources.md",
-    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/1.common hacking tools.md",
     "SOFTWARE/BASICS/NETWORKING/1. Introduction.md",
     "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
     "Pasted image 20241110145243.png",
