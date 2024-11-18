@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/1.introduction.md",
+                "file": "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable and data types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.introduction"
+              "title": "2.variable and data types"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "1946b4cd2eedbe4c",
   "lastOpenFiles": [
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable and data types.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/1.introduction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable and data types.md",
     "_resource/Pasted image 20241118182557.png",
     "Pasted image 20241118182557.png",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.The Language of Bits.md",
