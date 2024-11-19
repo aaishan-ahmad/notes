@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "feed36bf98307a41",
+        "id": "19467dc81ee37903",
         "type": "tabs",
         "children": [
           {
-            "id": "1946b4cd2eedbe4c",
+            "id": "d49824ba50c7ec2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable and data types.md",
+                "file": "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.The Language of Bits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.variable and data types"
+              "title": "2.The Language of Bits"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5,
-    "collapsed": true
+    "width": 558.5
   },
   "right": {
     "id": "8d9e5d2febf555c0",
@@ -164,13 +163,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1946b4cd2eedbe4c",
+  "active": "d49824ba50c7ec2d",
   "lastOpenFiles": [
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/1.introduction.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable and data types.md",
-    "_resource/Pasted image 20241118182557.png",
-    "Pasted image 20241118182557.png",
+    "Pasted image 20241119103509.png",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction to Computer Architecture.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.The Language of Bits.md",
+    "_resource/Pasted image 20241119101955.png",
+    "_resource/Pasted image 20241119101845.png",
+    "_resource/Pasted image 20241119095641.png",
+    "_resource/Pasted image 20241119093501.png",
+    "_resource/Pasted image 20241119092654.png",
+    "Pasted image 20241119101955.png",
+    "Pasted image 20241119101903.png",
+    "Pasted image 20241119101845.png",
+    "Pasted image 20241119095641.png",
+    "Pasted image 20241119093501.png",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable and data types.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/1.introduction.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/8. Files.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/9. Advance Concept.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
@@ -180,18 +189,9 @@
     "SOFTWARE/OTHER/SHELL SCRIPTING/1. Introduction.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/0. syllabus & resources.md",
     "_resource/Drawing 2023-09-28 15.37.50.excalidraw.md",
-    "_resource/Pasted image 20241118101957.png",
-    "_resource/Pasted image 20241118101708.png",
-    "_resource/Pasted image 20241118100839.png",
-    "_resource/Pasted image 20241118100114.png",
-    "_resource/Pasted image 20241118094652.png",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction to Computer Architecture.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/$questions.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/COMPUTER ARCHITECTURE & ORGANIZATION.md",
-    "Pasted image 20241118101957.png",
-    "Pasted image 20241118101708.png",
-    "Pasted image 20241118100839.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/0.syllabus and resources.md",
     "_resource/syllabus",
     "_resource/note",
