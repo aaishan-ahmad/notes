@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/6.class and object.md",
+                "file": "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/9.virtual environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.class and object"
+              "title": "9.virtual environment"
             }
           }
         ]
@@ -165,8 +165,11 @@
   },
   "active": "fb641bbd800727f4",
   "lastOpenFiles": [
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/5.function.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/8.excption handling.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/9.virtual environment.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/7.file I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/6.class and object.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/5.function.md",
     "SOFTWARE/CYBER SECURITY/CRYPTOGRAPHY & NETWORK SECURITY/1. introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable , data types and print().md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/4.control statement.md",
@@ -190,7 +193,6 @@
     "Pasted.md",
     "Drawing 2023-09-28 15.37.50.excalidraw.md",
     "Drawing 2023-09-27 15.03.32.excalidraw.md",
-    "MATHMATICS.md",
     "_resource/Pasted image 20241125094543.png",
     "_resource/Pasted image 20241124185837.png",
     "_resource/Pasted image 20241124105626.png",
@@ -199,8 +201,6 @@
     "_resource/Pasted image 20241124103633.png",
     "_resource/Pasted image 20241121100956.png",
     "_resource/Pasted image 20241120115914.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/0.syllabus and resources.md",
-    "SOFTWARE/OTHER/SHELL SCRIPTING/8. Files.md",
     "_resource/syllabus",
     "_resource/note",
     "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/Untitled",
