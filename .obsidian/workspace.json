@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/OS/2.process management.md",
+                "file": "SOFTWARE/OTHER/SHELL SCRIPTING/4. Variable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.process management"
+              "title": "4. Variable"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "c6c7a016bb7f775c",
   "lastOpenFiles": [
+    "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
+    "SOFTWARE/BASICS/OS/2.process management.md",
     "Pasted image 20241213122605.png",
     "SOFTWARE/BASICS/OS/1.introduction.md",
-    "SOFTWARE/BASICS/OS/2.process management.md",
     "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
     "Pasted image 20241213105530.png",
     "Pasted image 20241213105010.png",
@@ -178,7 +179,6 @@
     "Pasted image 20241212173200.png",
     "Pasted image 20241212151536.png",
     "Pasted image 20241212151508.png",
-    "Pasted image 20241212144613.png",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.assembly language.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.the Language of Bits.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/Web Scrapping.md",
