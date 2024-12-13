@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/OTHER/SHELL SCRIPTING/4. Variable.md",
+                "file": "SOFTWARE/BASICS/OS/2.process management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Variable"
+              "title": "2.process management"
+            }
+          },
+          {
+            "id": "1cee87d05a8fd13e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_resource/Pasted image 20241213105530.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241213105530"
             }
           }
         ]
@@ -165,20 +177,22 @@
   },
   "active": "c6c7a016bb7f775c",
   "lastOpenFiles": [
-    "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
+    "Pasted image 20241213203651.png",
+    "_resource/Pasted image 20241213105530.png",
     "SOFTWARE/BASICS/OS/2.process management.md",
-    "Pasted image 20241213122605.png",
+    "Pasted image 20241213202902.png",
+    "Pasted image 20241213185657.png",
+    "Pasted image 20241213184926.png",
+    "Pasted image 20241213184743.png",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/4. Variable.md",
+    "_resource/Pasted image 20241213122605.png",
+    "_resource/Pasted image 20241213105010.png",
+    "_resource/Pasted image 20241212191701.png",
+    "_resource/Pasted image 20241212191621.png",
+    "_resource/Pasted image 20241212183937.png",
+    "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
     "SOFTWARE/BASICS/OS/1.introduction.md",
     "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
-    "Pasted image 20241213105530.png",
-    "Pasted image 20241213105010.png",
-    "Pasted image 20241212191701.png",
-    "Pasted image 20241212191621.png",
-    "Pasted image 20241212183937.png",
-    "Pasted image 20241212173314.png",
-    "Pasted image 20241212173200.png",
-    "Pasted image 20241212151536.png",
-    "Pasted image 20241212151508.png",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.assembly language.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.the Language of Bits.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/Web Scrapping.md",
@@ -203,8 +217,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/3. modules ,keywords , operators  , input().md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/1.introduction.md",
     "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/1.basics tool.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.arm assembly language.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/6.risc-v assembly language.md",
     "_resource/syllabus",
     "_resource/note",
     "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/Untitled",
