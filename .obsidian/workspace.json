@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9ac073a2b60a4dc",
+        "id": "df1c2b23134a9ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "c6c7a016bb7f775c",
+            "id": "9b753e74bb97f635",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/OS/4.threads and multithreading.md",
+                "file": "SOFTWARE/PROGRAMMING LANGUAGE/C/3.data type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.threads and multithreading"
+              "title": "3.data type"
             }
           }
         ]
@@ -163,24 +163,28 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c6c7a016bb7f775c",
+  "active": "9b753e74bb97f635",
   "lastOpenFiles": [
-    "Pasted image 20241216223413.png",
-    "Pasted image 20241216223404.png",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/2.token.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/3.data type.md",
+    "Pasted image 20241218215257.png",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/1.introduction.md",
+    "SOFTWARE/BASICS/OS/5.process syncronization and deadlock.md",
+    "Pasted image 20241218123223.png",
+    "Pasted image 20241218120021.png",
+    "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/9.virtual environment.md",
+    "Pasted image 20241217150103.png",
+    "Pasted image 20241217144551.png",
+    "Pasted image 20241217085602.png",
+    "Pasted image 20241217085334.png",
     "SOFTWARE/BASICS/OS/1.introduction.md",
     "SOFTWARE/BASICS/OS/4.threads and multithreading.md",
+    "Pasted image 20241217073530.png",
+    "Pasted image 20241217073509.png",
+    "Pasted image 20241217073436.png",
     "SOFTWARE/BASICS/OS/3.cpu scheduling.md",
-    "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
     "SOFTWARE/BASICS/OS/2.process management.md",
-    "Pasted image 20241216203940.png",
-    "Pasted image 20241216111349.png",
-    "trmo.png",
-    "Pasted image 20241214205558.png",
-    "Pasted image 20241215225811.png",
-    "Pasted image 20241213203651.png",
-    "_resource/Pasted image 20241213105530.png",
-    "Pasted image 20241213202902.png",
-    "Pasted image 20241213185657.png",
     "SOFTWARE/OTHER/SHELL SCRIPTING/4. Variable.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.assembly language.md",
@@ -195,16 +199,12 @@
     "SOFTWARE/CYBER SECURITY/j.md",
     "SOFTWARE/CYBER SECURITY/COMPUTER FORENSICS IN TODAY’S WORLD",
     "SOFTWARE/CYBER SECURITY/ADVANCED PENETRATION TESTING",
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/9.virtual environment.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/8.excption handling.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/7.file I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/5.function.md",
     "SOFTWARE/CYBER SECURITY/CRYPTOGRAPHY & NETWORK SECURITY/1. introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable , data types and print().md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/4.control statement.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction to Computer Architecture.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/3. modules ,keywords , operators  , input().md",
     "_resource/syllabus",
     "_resource/note",
     "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/Untitled",
