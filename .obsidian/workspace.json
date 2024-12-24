@@ -11,10 +11,14 @@
             "id": "0ccd2b13f8d0a1d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SOFTWARE/BASICS/OS/5.process syncronization and deadlock.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5.process syncronization and deadlock"
             }
           }
         ]
@@ -159,32 +163,35 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b858e6755183aa2a",
+  "active": "0ccd2b13f8d0a1d9",
   "lastOpenFiles": [
+    "Pasted image 20241224145745.png",
+    "Pasted image 20241224145640.png",
+    "Pasted image 20241224141124.png",
+    "Pasted image 20241224105007.png",
+    "Pasted image 20241224101853.png",
+    "Pasted image 20241224100506.png",
+    "Pasted image 20241224100012.png",
+    "Pasted image 20241224090641.png",
+    "Pasted image 20241224090502.png",
+    "SOFTWARE/BASICS/OS/2.process management.md",
+    "SOFTWARE/BASICS/OS/1.introduction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/5.pointer.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/3.data type , variable and input-output.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/4.branching or control statement.md",
+    "SOFTWARE/BASICS/OS/5.process syncronization and deadlock.md",
+    "Pasted image 20241223175106.png",
+    "Pasted image 20241223173920.png",
     "_resource/draw/aim.excalidraw.crswap",
     "_resource/draw/aim.excalidraw",
     "_resource/draw",
     "_resource/New folder",
-    "SOFTWARE/BASICS/OS/5.process syncronization and deadlock.md",
-    "Pasted image 20241220135824.png",
-    "Pasted image 20241220110616.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/3.data type.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/2.token.md",
-    "Pasted image 20241219153123.png",
-    "Pasted image 20241219152416.png",
-    "Pasted image 20241219144304.png",
-    "Pasted image 20241219114753.png",
     "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
-    "Pasted image 20241219104648.png",
-    "Pasted image 20241219104614.png",
-    "Pasted image 20241218215257.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/1.introduction.md",
-    "Pasted image 20241218123223.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/9.virtual environment.md",
-    "SOFTWARE/BASICS/OS/1.introduction.md",
     "SOFTWARE/BASICS/OS/4.threads and multithreading.md",
     "SOFTWARE/BASICS/OS/3.cpu scheduling.md",
-    "SOFTWARE/BASICS/OS/2.process management.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/4. Variable.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.assembly language.md",
@@ -202,10 +209,7 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/8.excption handling.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/7.file I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/5.function.md",
-    "SOFTWARE/CYBER SECURITY/CRYPTOGRAPHY & NETWORK SECURITY/1. introduction.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/2.variable , data types and print().md",
     "_resource/syllabus",
-    "_resource/note",
-    "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/Untitled"
+    "_resource/note"
   ]
 }
