@@ -138,3 +138,4 @@
 
 [link with basic](BASIC)
 
+![[Pasted image 20241229181340.png]]![[Pasted image 20241229200623.png]]
