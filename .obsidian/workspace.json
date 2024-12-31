@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/OS/6.memory managment.md",
+                "file": "SOFTWARE/BASICS/DSA/3.array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.memory managment"
+              "title": "3.array"
             }
           }
         ]
@@ -163,27 +163,27 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c82e84bd0f58b810",
+  "active": "b858e6755183aa2a",
   "lastOpenFiles": [
-    "SOFTWARE/BASICS/DSA/3.array.md",
-    "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/10.dynamic memory allocation.md",
     "SOFTWARE/BASICS/OS/6.memory managment.md",
+    "SOFTWARE/BASICS/DSA/1.introduction.md",
+    "SOFTWARE/BASICS/DSA/3.array.md",
+    "Pasted image 20241231093218.png",
+    "Pasted image 20241231093034.png",
+    "Pasted image 20241231092928.png",
+    "Pasted image 20241231092207.png",
+    "_resource/Pasted image 20241230224214.png",
+    "_resource/Pasted image 20241230152051.png",
+    "_resource/Pasted image 20241230150420.png",
+    "_resource/Pasted image 20241230144610.png",
+    "_resource/Pasted image 20241230140441.png",
+    "_resource/Pasted image 20241230115321.png",
+    "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
     "SOFTWARE/BASICS/DSA/Introduction.md",
     "SOFTWARE/BASICS/DSA/2.analysis of algorithm.md",
-    "Pasted image 20241230224214.png",
-    "Pasted image 20241230224138.png",
-    "SOFTWARE/BASICS/DSA/1.introduction.md",
-    "Pasted image 20241230152051.png",
-    "Pasted image 20241230151936.png",
-    "Pasted image 20241230150420.png",
-    "Pasted image 20241230144610.png",
-    "Pasted image 20241230144546.png",
-    "Pasted image 20241230140441.png",
-    "Pasted image 20241230115321.png",
-    "Pasted image 20241230114902.png",
     "SOFTWARE/BASICS/OS/5.process syncronization and deadlock.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/6.structure , union , enum.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/10.dynamic memory allocation.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/3.data type , variable and input-output.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/9.string.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/8.constant literal and macros.md",
@@ -200,7 +200,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/C/1.introduction.md",
     "SOFTWARE/BASICS/OS/2.process management.md",
     "SOFTWARE/BASICS/OS/1.introduction.md",
-    "SOFTWARE/BASICS/OS/4.threads and multithreading.md",
     "_resource/draw/aim.excalidraw.crswap",
     "_resource/draw/aim.excalidraw",
     "_resource/draw",
