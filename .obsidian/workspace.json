@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f5686183e5de4f7",
+        "id": "e42e0d342e701ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "c82e84bd0f58b810",
+            "id": "ed44873f34d3ff74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOFTWARE/BASICS/DSA/3.array.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3.array"
+              "title": "New tab"
             }
           }
         ]
@@ -163,22 +159,33 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b858e6755183aa2a",
+  "active": "ed44873f34d3ff74",
   "lastOpenFiles": [
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/10.dynamic memory allocation.md",
     "SOFTWARE/BASICS/OS/6.memory managment.md",
-    "SOFTWARE/BASICS/DSA/1.introduction.md",
+    "Pasted image 20250103122014.png",
+    "Pasted image 20250103121743.png",
+    "Pasted image 20250103104539.png",
+    "Pasted image 20250103104506.png",
+    "Pasted image 20250103104418.png",
+    "Pasted image 20250103103648.png",
+    "Pasted image 20250103103105.png",
+    "Pasted image 20250102100717.png",
+    "Pasted image 20250102100702.png",
+    "Pasted image 20250102100619.png",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z2.the Language of Bits.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z0.syllabus and resources.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/$questions.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z6.risc-v assembly language.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z5.x86 assembly language.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z4.arm assembly language.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z3.assembly language.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z1.Introduction to Computer Architecture.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/2.token.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/1.introduction.md",
     "SOFTWARE/BASICS/DSA/3.array.md",
-    "Pasted image 20241231093218.png",
-    "Pasted image 20241231093034.png",
-    "Pasted image 20241231092928.png",
-    "Pasted image 20241231092207.png",
-    "_resource/Pasted image 20241230224214.png",
-    "_resource/Pasted image 20241230152051.png",
-    "_resource/Pasted image 20241230150420.png",
-    "_resource/Pasted image 20241230144610.png",
-    "_resource/Pasted image 20241230140441.png",
-    "_resource/Pasted image 20241230115321.png",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/10.dynamic memory allocation.md",
+    "SOFTWARE/BASICS/DSA/1.introduction.md",
     "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
     "SOFTWARE/BASICS/DSA/Introduction.md",
     "SOFTWARE/BASICS/DSA/2.analysis of algorithm.md",
@@ -189,17 +196,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/C/8.constant literal and macros.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/7.function.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
-    "SOFTWARE/OTHER/SHELL SCRIPTING/6. Operator.md",
-    "SOFTWARE/OTHER/SHELL SCRIPTING/4. Variable.md",
-    "SOFTWARE/OTHER/SHELL SCRIPTING/2. Common Commands.md",
-    "SOFTWARE/OTHER/SHELL SCRIPTING/7. Function.md",
-    "SOFTWARE/OTHER/SHELL SCRIPTING/3. Input Output.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/5.pointer , array.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/4.branching or control statement.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/2.token.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/1.introduction.md",
-    "SOFTWARE/BASICS/OS/2.process management.md",
-    "SOFTWARE/BASICS/OS/1.introduction.md",
     "_resource/draw/aim.excalidraw.crswap",
     "_resource/draw/aim.excalidraw",
     "_resource/draw",
