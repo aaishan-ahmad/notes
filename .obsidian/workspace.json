@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e42e0d342e701ba7",
+        "id": "2aab89eeb0f12753",
         "type": "tabs",
         "children": [
           {
-            "id": "ed44873f34d3ff74",
+            "id": "4ae3d18c118ef8f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SOFTWARE/BASICS/OS/6.memory managment.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "6.memory managment"
             }
           }
         ]
@@ -159,21 +163,24 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ed44873f34d3ff74",
+  "active": "4ae3d18c118ef8f8",
   "lastOpenFiles": [
+    "Pasted image 20250104182234.png",
+    "Pasted image 20250104175905.png",
+    "Pasted image 20250104164531.png",
+    "Pasted image 20250104164142.png",
+    "Pasted image 20250104164021.png",
+    "Pasted image 20250104163935.png",
+    "Pasted image 20250104162744.png",
+    "SOFTWARE/BASICS/OS/2.process management.md",
     "SOFTWARE/BASICS/OS/6.memory managment.md",
-    "Pasted image 20250103122014.png",
-    "Pasted image 20250103121743.png",
-    "Pasted image 20250103104539.png",
-    "Pasted image 20250103104506.png",
-    "Pasted image 20250103104418.png",
-    "Pasted image 20250103103648.png",
-    "Pasted image 20250103103105.png",
-    "Pasted image 20250102100717.png",
-    "Pasted image 20250102100702.png",
-    "Pasted image 20250102100619.png",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z2.the Language of Bits.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/-1prerequisite.md",
+    "Pasted image 20250103162715.png",
+    "Pasted image 20250103152951.png",
+    "Pasted image 20250103152207.png",
+    "Pasted image 20250103152046.png",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z0.syllabus and resources.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/$questions.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z6.risc-v assembly language.md",
@@ -194,8 +201,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/C/3.data type , variable and input-output.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/9.string.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/8.constant literal and macros.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/7.function.md",
-    "SOFTWARE/OTHER/SHELL SCRIPTING/5. Control Statement.md",
     "_resource/draw/aim.excalidraw.crswap",
     "_resource/draw/aim.excalidraw",
     "_resource/draw",
