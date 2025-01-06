@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/1.introduction.md",
+                "file": "SOFTWARE/CYBER SECURITY/ETHICAL HACKING/1.basics tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.introduction"
+              "title": "1.basics tool"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "8d9e5d2febf555c0",
@@ -167,19 +166,19 @@
   "active": "c9940006011a5150",
   "lastOpenFiles": [
     "SOFTWARE/BASICS/OS/6.memory managment.md",
+    "Pasted image 20250106174746.png",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
+    "Pasted image 20250106154304.png",
+    "Pasted image 20250106153244.png",
+    "Pasted image 20250106152728.png",
+    "Pasted image 20250106151035.png",
+    "Pasted image 20250106150825.png",
+    "Pasted image 20250106150641.png",
+    "Pasted image 20250106150513.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/1.introduction.md",
     "Pasted image 20250105164731.png",
     "Pasted image 20250105163744.png",
-    "Pasted image 20250105152339.png",
-    "Pasted image 20250105150539.png",
-    "Pasted image 20250105163558.png",
-    "Pasted image 20250105163539.png",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/9.virtual environment.md",
-    "_resource/Pasted image 20250104182234.png",
-    "_resource/Pasted image 20250104175905.png",
-    "_resource/Pasted image 20250104164531.png",
-    "_resource/Pasted image 20250104164142.png",
     "SOFTWARE/BASICS/OS/2.process management.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/z2.the Language of Bits.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/-1prerequisite.md",
@@ -201,7 +200,6 @@
     "SOFTWARE/BASICS/OS/5.process syncronization and deadlock.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/6.structure , union , enum.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/3.data type , variable and input-output.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/9.string.md",
     "_resource/draw/aim.excalidraw.crswap",
     "_resource/draw/aim.excalidraw",
     "_resource/draw",
