@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/4.function.md",
+                "file": "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.function"
+              "title": "5.class and object"
             }
           }
         ]
@@ -165,15 +165,21 @@
   },
   "active": "ed2b5eb23a30da8b",
   "lastOpenFiles": [
-    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/3.operator and control statement.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/coroutines.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/1.introduction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/4.function.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/5.method.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/6.class and object.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/5.function.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/3.operator and control statement.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/2.variable , datatypes & I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/3. operator & control statement.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/1.introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/4.branching or control statement.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/1.introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/8.package.md",
     "java-access-modifiers-table-1.png",
@@ -198,17 +204,11 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/A_INTRODUCTION/4_unicode.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/A_INTRODUCTION/3_setup.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/0.syllabus and resource.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/Untitled",
-    "SOFTWARE/PROGRAMMING LANGUAGE/Untitled.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/OVERVIEW.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/Untitled.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction.md",
     "_resource/Pasted image 20250115165609.png",
     "_resource/Pasted image 20250115165211.png",
     "_resource/Pasted image 20250115165019.png",
-    "SOFTWARE/BASICS/OS/7.file system.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/microprocessor (8085)",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/iit sir"
   ]
