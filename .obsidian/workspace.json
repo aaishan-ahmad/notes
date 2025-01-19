@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f5a9ab5eb3f891",
+        "id": "50da3ca014dd3ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2b5eb23a30da8b",
+            "id": "d4d3df3224aaf2dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
+                "file": "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/1.introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.class and object"
+              "title": "1.introduction"
             }
           }
         ]
@@ -163,16 +163,33 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ed2b5eb23a30da8b",
+  "active": "d4d3df3224aaf2dd",
   "lastOpenFiles": [
+    "Pasted image 20250119180811.png",
+    "Pasted image 20250119175559.png",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/0.syllabus and resource.md",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/1.introduction.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
+    "Pasted image 20250119151808.png",
+    "Pasted image 20250119151544.png",
+    "Pasted image 20250119143231.png",
+    "Pasted image 20250119140458.png",
+    "Pasted image 20250119132139.png",
+    "Pasted image 20250119130849.png",
+    "Pasted image 20250119123409.png",
+    "Pasted image 20250119123412.png",
+    "Pasted image 20250119123409 1.png",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction & addrssing modes.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.basic of computer system & microoperation.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/coroutines.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/1.introduction.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/4.function.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/5.method.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/6.class and object.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/5.function.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/3.operator and control statement.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/2.variable , datatypes & I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
@@ -182,33 +199,16 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/C/4.branching or control statement.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/8.package.md",
-    "java-access-modifiers-table-1.png",
-    "_resource/java-access-modifiers-table-1.png",
-    "_resource/in_built.png",
-    "_resource/collection framework.png",
-    "in_built.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/J_COLLECTION_FRAMEWORK/Notes.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/J_COLLECTION_FRAMEWORK/3.class data type.md",
-    "collection framework.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/9.interface & enum , genrics.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/I_GENERICS/Notes.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/F_EXCEPTION_HANDLING/class _exception.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/6. class and object.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Student.class",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Main.class",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/Main.java",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/Basic.java",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/A_INTRODUCTION/4_unicode.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/A_INTRODUCTION/3_setup.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/Untitled",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID",
-    "_resource/Pasted image 20250115165609.png",
-    "_resource/Pasted image 20250115165211.png",
-    "_resource/Pasted image 20250115165019.png",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/microprocessor (8085)",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/iit sir"
   ]
