@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
+                "file": "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2.view and viewgroups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.cpu , data-path & control unit"
+              "title": "2.view and viewgroups"
             }
           }
         ]
@@ -165,26 +165,26 @@
   },
   "active": "baeb1af497ff1e37",
   "lastOpenFiles": [
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
+    "Pasted image 20250123152912.png",
+    "Pasted image 20250123152744.png",
+    "Pasted image 20250123141801.png",
+    "Pasted image 20250123140651.png",
+    "Pasted image 20250123135830.png",
+    "Pasted image 20250123135411.png",
+    "Pasted image 20250123135206.png",
+    "Pasted image 20250123125804.png",
+    "Pasted image 20250123115223.png",
+    "Pasted image 20250123114803.png",
     "SOFTWARE/MATH FOR PROGRAMMER/MATH FOR PROGRAMMING.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/OVERVIEW.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2.view and viewgroups.md",
-    "Pasted image 20250121073042.png",
-    "_resource/image.png",
-    "_resource/image-9.png",
-    "_resource/image-8.png",
-    "_resource/image-7.png",
-    "_resource/image-6.png",
-    "_resource/image-5.png",
-    "_resource/image-4.png",
-    "_resource/image-3.png",
-    "_resource/image-2.png",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/1.introduction.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/-1prerequisite.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/0.syllabus and resource.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction & addrssing modes.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.basic of computer system & microoperation.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/coroutines.md",
@@ -200,7 +200,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/1.introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/4.branching or control statement.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Student.class",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Main.class",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack",
