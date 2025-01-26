@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
+                "file": "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/5. IO organization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.class and object"
+              "title": "5. IO organization"
             }
           }
         ]
@@ -165,22 +165,26 @@
   },
   "active": "b93d636ec9566c63",
   "lastOpenFiles": [
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.basic of computer system & microoperation.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction & addrssing modes.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/5. IO organization.md",
+    "Pasted image 20250126223051.png",
+    "Pasted image 20250126222510.png",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/digital logic",
+    "Pasted image 20250126201557.png",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/0.syllabus and resource.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
+    "_resource/Pasted image 20250125185349.png",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/3.activity.md",
     "Pasted image 20250125185349.png",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2.view and viewgroups.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/0.syllabus and resource.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction & addrssing modes.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
     "_resource/Pasted image 20250125122228.png",
     "_resource/Pasted image 20250125122132.png",
     "_resource/Pasted image 20250125122048.png",
     "_resource/Pasted image 20250125121714.png",
     "_resource/Pasted image 20250125121644.png",
-    "_resource/Pasted image 20250125121528.png",
-    "_resource/Pasted image 20250125121403.png",
-    "_resource/Pasted image 20250125120622.png",
-    "_resource/Pasted image 20250125120548.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/4.function.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/3.operator and control statement.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/2.variable , datatypes & I-O.md",
@@ -189,17 +193,14 @@
     "SOFTWARE/BASICS/OS/2.process management.md",
     "SOFTWARE/BASICS/OS/1.introduction.md",
     "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
     "SOFTWARE/MATH FOR PROGRAMMER/MATH FOR PROGRAMMING.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/OVERVIEW.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/1.introduction.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/-1prerequisite.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/2.basic of computer system & microoperation.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/coroutines.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/5.method.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/6.class and object.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/5.function.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Student.class",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Main.class",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack",
@@ -208,7 +209,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE",
     "SOFTWARE/PROGRAMMING LANGUAGE/Untitled",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/microprocessor (8085)",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/iit sir"
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/microprocessor (8085)"
   ]
 }
