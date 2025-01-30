@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a381e377d69f14a",
+        "id": "4e6c3ae05fd69f90",
         "type": "tabs",
         "children": [
           {
-            "id": "b93d636ec9566c63",
+            "id": "616c38e82ea49af4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,30 @@
               },
               "icon": "lucide-file",
               "title": "6.memory and cache"
+            }
+          },
+          {
+            "id": "91e9baa97f9b8552",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250130150640.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250130150640"
+            }
+          },
+          {
+            "id": "462cdebfbb30a5c8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250130150301.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250130150301"
             }
           }
         ]
@@ -52,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tlb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,26 +187,26 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b93d636ec9566c63",
+  "active": "616c38e82ea49af4",
   "lastOpenFiles": [
-    "Pasted image 20250129190516.png",
-    "Pasted image 20250129185923.png",
-    "Pasted image 20250129185725.png",
-    "Pasted image 20250129151059.png",
-    "Pasted image 20250129142307.png",
-    "Pasted image 20250129142306.png",
-    "Pasted image 20250129142813.png",
-    "Pasted image 20250129142306.png",
-    "Pasted image 20250129141523.png",
-    "Pasted image 20250129112510.png",
-    "Pasted image 20250129111954.png",
+    "Pasted image 20250130171605.png",
+    "Pasted image 20250130150640.png",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/6.memory and cache.md",
+    "Pasted image 20250130150301.png",
+    "SOFTWARE/BASICS/OS/6.memory managment.md",
+    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
+    "Pasted image 20250130142028.png",
+    "Pasted image 20250130101912.png",
+    "_resource/Pasted image 20250129190516.png",
+    "_resource/Pasted image 20250129185923.png",
+    "_resource/Pasted image 20250129185725.png",
+    "_resource/Pasted image 20250129151059.png",
+    "_resource/Pasted image 20250129142307.png",
+    "_resource/Pasted image 20250129142306.png",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/5. IO organization.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/6.memory and cache.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
     "SOFTWARE/BASICS/OS/0. syllabus and resources.md",
-    "SOFTWARE/BASICS/OS/6.memory managment.md",
     "SOFTWARE/BASICS/OS/5.process syncronization and deadlock.md",
     "SOFTWARE/BASICS/OS/2.process management.md",
     "SOFTWARE/BASICS/OS/3.cpu scheduling.md",
