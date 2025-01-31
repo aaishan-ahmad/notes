@@ -20,30 +20,6 @@
               "icon": "lucide-file",
               "title": "6.memory and cache"
             }
-          },
-          {
-            "id": "91e9baa97f9b8552",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250130150640.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250130150640"
-            }
-          },
-          {
-            "id": "462cdebfbb30a5c8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250130150301.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250130150301"
-            }
           }
         ]
       }
@@ -64,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -189,20 +166,20 @@
   },
   "active": "616c38e82ea49af4",
   "lastOpenFiles": [
-    "Pasted image 20250130171605.png",
-    "Pasted image 20250130150640.png",
+    "Pasted image 20250131185200.png",
+    "Pasted image 20250131185056.png",
+    "Pasted image 20250131170153.png",
+    "Pasted image 20250131155153.png",
+    "Pasted image 20250131145130.png",
+    "Pasted image 20250131144027.png",
+    "Pasted image 20250131115726.png",
+    "Pasted image 20250131113713.png",
+    "Pasted image 20250131113442.png",
+    "Pasted image 20250131112429.png",
+    "Pasted image 20250131111537.png",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/6.memory and cache.md",
-    "Pasted image 20250130150301.png",
     "SOFTWARE/BASICS/OS/6.memory managment.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
-    "Pasted image 20250130142028.png",
-    "Pasted image 20250130101912.png",
-    "_resource/Pasted image 20250129190516.png",
-    "_resource/Pasted image 20250129185923.png",
-    "_resource/Pasted image 20250129185725.png",
-    "_resource/Pasted image 20250129151059.png",
-    "_resource/Pasted image 20250129142307.png",
-    "_resource/Pasted image 20250129142306.png",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/5. IO organization.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
