@@ -27,10 +27,10 @@
 
 ---
 
-| Column 1 | Column 2 |  
-|----------|----------|  
-| Row 1 | Row 1 |  
-| Row 2 | R
+| Column 1 | Column 2 |     |
+| -------- | -------- | --- |
+| Row 1    | Row 1    |     |
+| Row 2    | R        |     |
 
 ![imgae](https://i.sstatic.net/FJ6FY.jpg)
 [link click to ](BASIC)
