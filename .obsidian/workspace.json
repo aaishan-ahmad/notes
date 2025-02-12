@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/DSA/4.linked list.md",
+                "file": "SOFTWARE/BASICS/DSA/5. queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.linked list"
+              "title": "5. queue"
             }
           }
         ]
@@ -166,19 +166,20 @@
   },
   "active": "128e68a7b59d9810",
   "lastOpenFiles": [
-    "Pasted image 20250211155820.png",
-    "Pasted image 20250211155737.png",
-    "Pasted image 20250211155124.png",
-    "Pasted image 20250211154715.png",
-    "Pasted image 20250211154622.png",
-    "Pasted image 20250211153847.png",
-    "Pasted image 20250211150655.png",
-    "Pasted image 20250211144410.png",
-    "_resource/Pasted image 20250210225717.png",
-    "_resource/Pasted image 20250210225618.png",
-    "_resource/Pasted image 20250210224912.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/10.dynamic memory allocation.md",
+    "Pasted image 20250212182551.png",
+    "Pasted image 20250212154645 1.png",
+    "Pasted image 20250212154645.png",
+    "Pasted image 20250212154337.png",
+    "Pasted image 20250212153552.png",
+    "SOFTWARE/BASICS/DSA/5. queue.md",
+    "Pasted image 20250212153904.png",
+    "Pasted image 20250212153822.png",
+    "Pasted image 20250212153654.png",
+    "Pasted image 20250211190131.png",
     "SOFTWARE/BASICS/DSA/4.linked list.md",
+    "Pasted image 20250211182629.png",
+    "Pasted image 20250211182524.png",
+    "SOFTWARE/PROGRAMMING LANGUAGE/C/10.dynamic memory allocation.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/6. class and object.md",
     "SOFTWARE/BASICS/DSA/3.array.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md",
@@ -202,7 +203,6 @@
     "SOFTWARE/BASICS/NETWORKING/1. introduction.md",
     "SOFTWARE/BASICS/NETWORKING/javapoint/1. Introduction.md",
     "SOFTWARE/BASICS/NETWORKING/javapoint/6. Model.md",
-    "SOFTWARE/BASICS/NETWORKING/javapoint/5. Data communication.md",
     "SOFTWARE/BASICS/NETWORKING/javapoint",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/digital logic",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Student.class",
