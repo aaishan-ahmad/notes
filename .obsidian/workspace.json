@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "7.tree"
             }
-          },
-          {
-            "id": "796b1071d0ae233b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250218112811.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250218112811"
-            }
           }
         ]
       }
@@ -178,19 +166,19 @@
   },
   "active": "128e68a7b59d9810",
   "lastOpenFiles": [
-    "Pasted image 20250218153406.png",
-    "Pasted image 20250218153312.png",
-    "Pasted image 20250218152939.png",
-    "Pasted image 20250218152739.png",
+    "Pasted image 20250219213451.png",
+    "Pasted image 20250219213310.png",
+    "Pasted image 20250219212014.png",
+    "Pasted image 20250219211636.png",
+    "Pasted image 20250219211534.png",
+    "Pasted image 20250219211423.png",
+    "Pasted image 20250219195040.png",
+    "Pasted image 20250219194558.png",
+    "Pasted image 20250219194406.png",
+    "Pasted image 20250219194226.png",
+    "Pasted image 20250219141709.png",
     "SOFTWARE/BASICS/DSA/6.stack.md",
     "SOFTWARE/BASICS/DSA/7.tree.md",
-    "Pasted image 20250218123640.png",
-    "Pasted image 20250218122227.png",
-    "Pasted image 20250218120634.png",
-    "Pasted image 20250218120229.png",
-    "Pasted image 20250218114518.png",
-    "Pasted image 20250218112811.png",
-    "Pasted image 20250218113122.png",
     "SOFTWARE/BASICS/DSA/5.queue.md",
     "SOFTWARE/BASICS/DSA/4.linked list.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/10.dynamic memory allocation.md",
