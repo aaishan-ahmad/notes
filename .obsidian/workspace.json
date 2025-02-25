@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea1b2f378a55e4a",
+        "id": "81943dc7912640a9",
         "type": "tabs",
         "children": [
           {
-            "id": "128e68a7b59d9810",
+            "id": "638af6709be529a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/DSA/11.hashing.md",
+                "file": "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/3..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.hashing"
-            }
-          },
-          {
-            "id": "0815720784c2d1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOFTWARE/BASICS/DSA/11.hashing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.hashing"
+              "title": "3."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,27 +164,36 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0815720784c2d1d5",
+  "active": "638af6709be529a7",
   "lastOpenFiles": [
-    "Pasted image 20250224182747.png",
-    "Pasted image 20250224182238.png",
-    "Pasted image 20250224161442.png",
-    "Pasted image 20250224154540.png",
-    "Pasted image 20250224151255.png",
-    "Pasted image 20250224150945.png",
-    "Pasted image 20250224150846.png",
-    "Pasted image 20250224112937.png",
-    "Pasted image 20250224112121.png",
-    "Pasted image 20250224110902.png",
-    "Pasted image 20250224104907.png",
-    "SOFTWARE/BASICS/DSA/3.array.md",
-    "SOFTWARE/BASICS/DSA/11.hashing.md",
-    "SOFTWARE/BASICS/DSA/10.graph.md",
-    "SOFTWARE/BASICS/DSA/0.syllabus & resources.md",
-    "SOFTWARE/BASICS/DSA/1.introduction.md",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2. android component.md",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/3..md",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/OVERVIEW.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
+    "SOFTWARE/BASICS/DSA/0.syllabus & resources.md",
+    "SOFTWARE/BASICS/DSA/6.stack.md",
+    "SOFTWARE/BASICS/DSA/5.queue.md",
+    "SOFTWARE/BASICS/DSA/4.linked list.md",
+    "SOFTWARE/BASICS/DSA/3.array.md",
+    "SOFTWARE/BASICS/DSA/Introduction.md",
+    "SOFTWARE/BASICS/DSA/Algorithms",
+    "SOFTWARE/BASICS/DSA/1.introduction.md",
+    "SOFTWARE/BASICS/DSA/11.hashing.md",
     "class _exception.png.md",
+    "_resource/Pasted image 20250224182747.png",
+    "_resource/Pasted image 20250224182238.png",
+    "_resource/Pasted image 20250224161442.png",
+    "_resource/Pasted image 20250224154540.png",
+    "_resource/Pasted image 20250224151255.png",
+    "_resource/Pasted image 20250224150945.png",
+    "_resource/Pasted image 20250224150846.png",
+    "_resource/Pasted image 20250224112937.png",
+    "_resource/Pasted image 20250224112121.png",
+    "_resource/Pasted image 20250224110902.png",
+    "SOFTWARE/BASICS/DSA/10.graph.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/9.interface & enum , genrics.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/1.introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/CPP/3. CPP.md",
@@ -209,14 +203,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/C/7.function.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/6.structure , union , enum.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/C/5.pointer , array.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/4.branching or control statement.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/C/3.data type , variable and input-output.md",
-    "SOFTWARE/BASICS/DSA/9.heap.md",
-    "SOFTWARE/BASICS/DSA/Introduction.md",
-    "SOFTWARE/BASICS/DSA/2.analysis of algorithm.md",
-    "SOFTWARE/BASICS/DSA/7.tree.md",
-    "SOFTWARE/BASICS/DSA/8.avl tree.md",
-    "SOFTWARE/BASICS/DSA/6.stack.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb",
     "SOFTWARE/BASICS/NETWORKING/javapoint",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/digital logic",
@@ -225,7 +211,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/Main.java",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/Basic.java",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE",
-    "SOFTWARE/PROGRAMMING LANGUAGE/Untitled"
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE"
   ]
 }
