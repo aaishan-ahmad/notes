@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
+                "file": "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/8.package.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.multitherading"
+              "title": "8.package"
             }
           }
         ]
@@ -166,9 +166,18 @@
   },
   "active": "a30dc55bdef21d4e",
   "lastOpenFiles": [
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/9.interface & enum , genrics.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
+    "Pasted image 20250302131108.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/6. class and object.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/8.package.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
+    "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
+    "SOFTWARE/BASICS/DSA/11.hashing.md",
+    "SOFTWARE/BASICS/DSA/2.analysis of algorithm.md",
+    "SOFTWARE/BASICS/DSA/0.syllabus & resources.md",
+    "SOFTWARE/BASICS/DSA/1.introduction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/9.interface & enum , genrics.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/6.class and object.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/3. modules ,keywords , operators  , input().md",
@@ -180,20 +189,13 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/KOTLIN/5.class and object.md",
     "_resource/Pasted image 20250107224700.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/1.introduction.md",
-    "SOFTWARE/BASICS/DSA/0.syllabus & resources.md",
-    "SOFTWARE/BASICS/DSA/1.introduction.md",
     "SOFTWARE/BASICS/DSA/Introduction.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/3..md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/OVERVIEW.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
     "SOFTWARE/BASICS/DSA/6.stack.md",
     "SOFTWARE/BASICS/DSA/5.queue.md",
-    "SOFTWARE/BASICS/DSA/4.linked list.md",
-    "SOFTWARE/BASICS/DSA/3.array.md",
     "SOFTWARE/BASICS/DSA/Algorithms",
-    "SOFTWARE/BASICS/DSA/11.hashing.md",
-    "class _exception.png.md",
     "_resource/Pasted image 20250224182747.png",
     "_resource/Pasted image 20250224182238.png",
     "_resource/Pasted image 20250224161442.png",
@@ -201,8 +203,6 @@
     "_resource/Pasted image 20250224151255.png",
     "_resource/Pasted image 20250224150945.png",
     "_resource/Pasted image 20250224150846.png",
-    "SOFTWARE/BASICS/DSA/10.graph.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb",
     "SOFTWARE/BASICS/NETWORKING/javapoint",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/digital logic",
