@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
+                "file": "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.variable , data types, wrapper class & I-O"
+              "title": "12.collection framwork"
             }
           }
         ]
@@ -166,20 +166,23 @@
   },
   "active": "a30dc55bdef21d4e",
   "lastOpenFiles": [
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/0.syllabus and resource.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
+    "Pasted image 20250304115008.png",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/9.interface & enum , genrics.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/6. class and object.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/8.package.md",
     "Pasted image 20250302131108.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
     "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
     "SOFTWARE/BASICS/DSA/11.hashing.md",
     "SOFTWARE/BASICS/DSA/2.analysis of algorithm.md",
     "SOFTWARE/BASICS/DSA/0.syllabus & resources.md",
     "SOFTWARE/BASICS/DSA/1.introduction.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/6.class and object.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/PYTHON/3. modules ,keywords , operators  , input().md",
     "Pasted image 20250228110737.png",
     "Pasted image 20250228110720.png",
@@ -192,7 +195,6 @@
     "SOFTWARE/BASICS/DSA/Introduction.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/3..md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/OVERVIEW.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
     "SOFTWARE/BASICS/DSA/6.stack.md",
     "SOFTWARE/BASICS/DSA/5.queue.md",
     "SOFTWARE/BASICS/DSA/Algorithms",
@@ -201,7 +203,6 @@
     "_resource/Pasted image 20250224161442.png",
     "_resource/Pasted image 20250224154540.png",
     "_resource/Pasted image 20250224151255.png",
-    "_resource/Pasted image 20250224150945.png",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb",
     "SOFTWARE/BASICS/NETWORKING/javapoint",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/digital logic",
