@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
+                "file": "SOFTWARE/BASICS/DSA/Algorithms/2.array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.collection framwork"
+              "title": "2.array"
             }
           }
         ]
@@ -166,16 +166,22 @@
   },
   "active": "a30dc55bdef21d4e",
   "lastOpenFiles": [
+    "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
+    "SOFTWARE/BASICS/DSA/Algorithms/2.array.md",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/1.introduction.md",
+    "Pasted image 20250314105010.png",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/5.static user interface.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2. android component & intent.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
     "Pasted image 20250312190343.png",
     "Pasted image 20250312170311.png",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/5.static user interface.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/2.view and viewgroups.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/proguard rules.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/3.activity.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2. android component & intent.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/4.toast.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/OVERVIEW.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
     "Pasted image 20250311152401.png",
     "Pasted image 20250311152328.png",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/3.eventlistener.md",
@@ -192,16 +198,10 @@
     "_resource/Pasted image 20250308102714.png",
     "_resource/Pasted image 20250308093423.png",
     "_resource/Pasted image 20250307143638.png",
-    "_resource/Pasted image 20250307142842.png",
-    "_resource/Pasted image 20250307140038.png",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/$questions.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/0.syllabus and resource.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/9.interface & enum , genrics.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/8.package.md",
-    "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
     "SOFTWARE/BASICS/DSA/Algorithms",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb",
     "SOFTWARE/BASICS/NETWORKING/javapoint",
