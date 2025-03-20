@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
+                "file": "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.exception handling"
+              "title": "1.introduction"
             }
           }
         ]
@@ -166,6 +166,11 @@
   },
   "active": "39eb85585901942e",
   "lastOpenFiles": [
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/0.syllabus and resource.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/1.introduction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
+    "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
     "Pasted image 20250319124051.png",
     "Pasted image 20250319124024.png",
     "Pasted image 20250319115546.png",
@@ -173,10 +178,7 @@
     "Pasted image 20250319102557.png",
     "Pasted image 20250319094334.png",
     "Pasted image 20250316110051.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
-    "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/6.dynamic user interace.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/5.static user interface.md",
     "Pasted image 20250316111544.png",
@@ -186,7 +188,6 @@
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2. android component & intent.md",
     "Pasted image 20250312190343.png",
-    "Pasted image 20250312170311.png",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/2.view and viewgroups.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/proguard rules.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/3.activity.md",
@@ -201,7 +202,6 @@
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/7.pipline.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/$questions.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/0.syllabus and resources.md",
     "SOFTWARE/BASICS/DSA/Algorithms",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb",
     "SOFTWARE/BASICS/NETWORKING/javapoint",
