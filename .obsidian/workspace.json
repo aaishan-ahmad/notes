@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
+                "file": "SOFTWARE/BASICS/DSA/Algorithms/9.trie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.introduction"
+              "title": "9.trie"
             }
           }
         ]
@@ -166,10 +166,11 @@
   },
   "active": "39eb85585901942e",
   "lastOpenFiles": [
+    "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
+    "SOFTWARE/BASICS/DSA/Algorithms/9.trie.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/0.syllabus and resource.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/1.introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
-    "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
     "Pasted image 20250319124051.png",
     "Pasted image 20250319124024.png",
@@ -201,7 +202,6 @@
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/6.memory and cache.md",
     "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/7.pipline.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/$questions.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/1.Introduction.md",
     "SOFTWARE/BASICS/DSA/Algorithms",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb",
     "SOFTWARE/BASICS/NETWORKING/javapoint",
