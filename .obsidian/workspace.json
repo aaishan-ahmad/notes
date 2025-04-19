@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/CORE/DBMS/1.introduction.md",
+                "file": "SOFTWARE/CORE/DSA/4.linked list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.introduction"
+              "title": "4.linked list"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "night",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,8 +164,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "39eb85585901942e",
+  "active": "e7f20ed9d8673a73",
   "lastOpenFiles": [
+    "SOFTWARE/CORE/DSA/3.array.md",
+    "_resource/Pasted image 20250209183309.png",
+    "SOFTWARE/CORE/DBMS/1.introduction.md",
+    "Pasted image 20250419111811.png",
     "Pasted image 20250419091946.png",
     "Pasted image 20250419091638.png",
     "Pasted image 20250419091600.png",
@@ -175,8 +178,6 @@
     "Pasted image 20250419082807.png",
     "Pasted image 20250419081349.png",
     "SOFTWARE/CORE/DBMS/0.syllabus and resources.md",
-    "SOFTWARE/CORE/DBMS/1.introduction.md",
-    "SOFTWARE/CORE/DSA/3.array.md",
     "SOFTWARE/CORE/DSA/2.analysis of algorithm.md",
     "SOFTWARE/CORE/DSA/1.introduction.md",
     "SOFTWARE/CORE/DSA/0.syllabus & resources.md",
@@ -190,13 +191,10 @@
     "SOFTWARE/ADVANCE/TOC",
     "SOFTWARE/BASICS/Untitled.md",
     "SOFTWARE/CORE/DSA/10.graph.md",
-    "Pasted image 20250418151132.png",
-    "Pasted image 20250418143616.png",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/GITHUB & GIT.md",
     "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md",
     "SOFTWARE/CORE/DSA/Algorithms/1.introduction.md",
     "SOFTWARE/CORE/DSA/Algorithms/12. dynamic programming.md",
-    "Pasted image 20250414175309.png",
     "SOFTWARE/ADVANCE/COMPILER DESIGN",
     "SOFTWARE/CORE/DSA/4.linked list.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2. android component & intent.md",
