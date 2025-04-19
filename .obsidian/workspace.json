@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/BASICS/DSA/10.graph.md",
+                "file": "SOFTWARE/CORE/DBMS/1.introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.graph"
+              "title": "1.introduction"
             }
           }
         ]
@@ -35,25 +35,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b858e6755183aa2a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "e7f20ed9d8673a73",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tlb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +60,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "784b62770769ffca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,51 +167,51 @@
   },
   "active": "39eb85585901942e",
   "lastOpenFiles": [
-    "SOFTWARE/BASICS/DSA/Algorithms/1.introduction.md",
-    "SOFTWARE/BASICS/DSA/Algorithms/9.trie.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/0.syllabus and resource.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/1.introduction.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.collection framwork.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
-    "Pasted image 20250319124051.png",
-    "Pasted image 20250319124024.png",
-    "Pasted image 20250319115546.png",
-    "Pasted image 20250319104501.png",
-    "Pasted image 20250319102557.png",
-    "Pasted image 20250319094334.png",
-    "Pasted image 20250316110051.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/6.dynamic user interace.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/5.static user interface.md",
-    "Pasted image 20250316111544.png",
-    "SOFTWARE/BASICS/DSA/Algorithms/2.array.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/1.introduction.md",
-    "Pasted image 20250314105010.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.multitherading.md",
+    "Pasted image 20250419091946.png",
+    "Pasted image 20250419091638.png",
+    "Pasted image 20250419091600.png",
+    "Pasted image 20250419091455.png",
+    "Pasted image 20250419083313.png",
+    "Pasted image 20250419082807.png",
+    "Pasted image 20250419081349.png",
+    "SOFTWARE/CORE/DBMS/0.syllabus and resources.md",
+    "SOFTWARE/CORE/DBMS/1.introduction.md",
+    "SOFTWARE/CORE/DSA/3.array.md",
+    "SOFTWARE/CORE/DSA/2.analysis of algorithm.md",
+    "SOFTWARE/CORE/DSA/1.introduction.md",
+    "SOFTWARE/CORE/DSA/0.syllabus & resources.md",
+    "SOFTWARE/ADVANCE/COMPILER DESIGN/0.syllabus and resources.md",
+    "SOFTWARE/ADVANCE",
+    "SOFTWARE/Untitled.md",
+    "SOFTWARE/ADVANCE/TOC/0.syllabus and resources.md",
+    "Pasted image 20250418154649.png",
+    "SOFTWARE/ADVANCE/COMPILER DESIGN/1.introduction to compiler.md",
+    "SOFTWARE/BASICS/TOC/Untitled",
+    "SOFTWARE/ADVANCE/TOC",
+    "SOFTWARE/BASICS/Untitled.md",
+    "SOFTWARE/CORE/DSA/10.graph.md",
+    "Pasted image 20250418151132.png",
+    "Pasted image 20250418143616.png",
+    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/GITHUB & GIT.md",
+    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md",
+    "SOFTWARE/CORE/DSA/Algorithms/1.introduction.md",
+    "SOFTWARE/CORE/DSA/Algorithms/12. dynamic programming.md",
+    "Pasted image 20250414175309.png",
+    "SOFTWARE/ADVANCE/COMPILER DESIGN",
+    "SOFTWARE/CORE/DSA/4.linked list.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2. android component & intent.md",
-    "Pasted image 20250312190343.png",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/2.view and viewgroups.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/proguard rules.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb/3.activity.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/4.toast.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/OVERVIEW.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/3.eventlistener.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/6. class and object.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/3. operator & control statement.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/-1prerequisite.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/6.memory and cache.md",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/7.pipline.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/$questions.md",
-    "SOFTWARE/BASICS/DSA/Algorithms",
+    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/1.introduction.md",
+    "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/7.pipline.md",
+    "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/6.memory and cache.md",
+    "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/5. IO organization.md",
+    "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
+    "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction & addrssing modes.md",
+    "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/2.basic of computer system & microoperation.md",
+    "SOFTWARE/CORE/DSA/Algorithms",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb",
-    "SOFTWARE/BASICS/NETWORKING/javapoint",
-    "SOFTWARE/BASICS/COMPUTER ARCHITECTURE & ORGANIZATION/digital logic",
+    "SOFTWARE/CORE/NETWORKING/javapoint",
+    "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/digital logic",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Student.class",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Main.class",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/Main.java",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/Basic.java",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE"
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/D_PACKAGE/pack/Main.class"
   ]
 }
