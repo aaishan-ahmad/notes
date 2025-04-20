@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/CORE/DSA/4.linked list.md",
+                "file": "SOFTWARE/CORE/DBMS/1.introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.linked list"
+              "title": "1.introduction"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "night",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,20 +165,24 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e7f20ed9d8673a73",
+  "active": "39eb85585901942e",
   "lastOpenFiles": [
+    "Pasted image 20250420193515.png",
+    "Pasted image 20250420193446.png",
+    "SOFTWARE/CORE/DBMS/2.SQL.md",
+    "SOFTWARE/CORE/DBMS/1.introduction.md",
+    "SOFTWARE/CORE/DBMS/0.syllabus and resources.md",
+    "Pasted image 20250420084728.png",
+    "Pasted image 20250420083351.png",
+    "SOFTWARE/CORE/DSA/4.linked list.md",
     "SOFTWARE/CORE/DSA/3.array.md",
     "_resource/Pasted image 20250209183309.png",
-    "SOFTWARE/CORE/DBMS/1.introduction.md",
     "Pasted image 20250419111811.png",
     "Pasted image 20250419091946.png",
     "Pasted image 20250419091638.png",
     "Pasted image 20250419091600.png",
     "Pasted image 20250419091455.png",
     "Pasted image 20250419083313.png",
-    "Pasted image 20250419082807.png",
-    "Pasted image 20250419081349.png",
-    "SOFTWARE/CORE/DBMS/0.syllabus and resources.md",
     "SOFTWARE/CORE/DSA/2.analysis of algorithm.md",
     "SOFTWARE/CORE/DSA/1.introduction.md",
     "SOFTWARE/CORE/DSA/0.syllabus & resources.md",
@@ -185,7 +190,6 @@
     "SOFTWARE/ADVANCE",
     "SOFTWARE/Untitled.md",
     "SOFTWARE/ADVANCE/TOC/0.syllabus and resources.md",
-    "Pasted image 20250418154649.png",
     "SOFTWARE/ADVANCE/COMPILER DESIGN/1.introduction to compiler.md",
     "SOFTWARE/BASICS/TOC/Untitled",
     "SOFTWARE/ADVANCE/TOC",
@@ -196,7 +200,6 @@
     "SOFTWARE/CORE/DSA/Algorithms/1.introduction.md",
     "SOFTWARE/CORE/DSA/Algorithms/12. dynamic programming.md",
     "SOFTWARE/ADVANCE/COMPILER DESIGN",
-    "SOFTWARE/CORE/DSA/4.linked list.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/2. android component & intent.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/1.introduction.md",
     "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/7.pipline.md",
@@ -204,7 +207,6 @@
     "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/5. IO organization.md",
     "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/4.cpu , data-path & control unit.md",
     "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/3.instruction & addrssing modes.md",
-    "SOFTWARE/CORE/COMPUTER ARCHITECTURE & ORGANIZATION/2.basic of computer system & microoperation.md",
     "SOFTWARE/CORE/DSA/Algorithms",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/dumb",
     "SOFTWARE/CORE/NETWORKING/javapoint",
