@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/CORE/DBMS/2.SQL.md",
+                "file": "SOFTWARE/CORE/DSA/8.avl tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.SQL"
+              "title": "8.avl tree"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 385.5
   },
   "right": {
     "id": "8d9e5d2febf555c0",
@@ -168,6 +167,10 @@
   },
   "active": "39eb85585901942e",
   "lastOpenFiles": [
+    "SOFTWARE/CORE/DSA/9.heap.md",
+    "SOFTWARE/CORE/DSA/11.hashing.md",
+    "SOFTWARE/CORE/DSA/10.graph.md",
+    "SOFTWARE/CORE/DSA/8.avl tree.md",
     "SOFTWARE/CORE/DSA/7.tree.md",
     "SOFTWARE/CORE/DBMS/2.SQL.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/0.syllabus and resource.md",
@@ -191,10 +194,6 @@
     "SOFTWARE/CORE/DSA/6.stack.md",
     "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.file handling.md",
     "Pasted image 20250425153213.png",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.thread and multitherading.md",
-    "SOFTWARE/CORE/DBMS/1.introduction.md",
-    "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/5.static user interface.md",
-    "SOFTWARE/CORE/DSA/11.hashing.md",
     "Pasted image 20250420193515.png",
     "Pasted image 20250420193446.png",
     "Pasted image 20250420084728.png",
