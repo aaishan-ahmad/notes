@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFTWARE/CORE/DSA/8.avl tree.md",
+                "file": "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/6. class and object.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.avl tree"
+              "title": "6. class and object"
+            }
+          },
+          {
+            "id": "e519d79cb3c8b5f6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "noname111.png"
+              },
+              "icon": "lucide-image",
+              "title": "noname111"
             }
           }
         ]
@@ -167,10 +179,27 @@
   },
   "active": "39eb85585901942e",
   "lastOpenFiles": [
+    "Pasted image 20250502211502.png",
+    "Pasted image 20250502211414.png",
+    "Pasted image 20250502211330.png",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/8.package.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/6. class and object.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/11.thread and multitherading.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/10.exception handling.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/9.interface & enum , genrics.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/1.introduction.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/5.method.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
+    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/3. operator & control statement.md",
+    "noname111.png",
+    "_resource/Pasted image 20250107224700.png",
+    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/MARKDOWN.md.md",
+    "SOFTWARE/OTHER/TOOL AND TECHNOLOGIES/IMP-LIBRARIES-NODE.md",
+    "SOFTWARE/CORE/DSA/8.avl tree.md",
     "SOFTWARE/CORE/DSA/9.heap.md",
     "SOFTWARE/CORE/DSA/11.hashing.md",
     "SOFTWARE/CORE/DSA/10.graph.md",
-    "SOFTWARE/CORE/DSA/8.avl tree.md",
     "SOFTWARE/CORE/DSA/7.tree.md",
     "SOFTWARE/CORE/DBMS/2.SQL.md",
     "SOFTWARE/MOBILE APP DEVLOPMENT/ANDROID/0.syllabus and resource.md",
@@ -180,29 +209,12 @@
     "SOFTWARE/OTHER/SHELL SCRIPTING/8. Files.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/9. Advance Concept.md",
     "SOFTWARE/OTHER/SHELL SCRIPTING/SHELL SCRIPTING.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/8.package.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/6. class and object.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/5.method.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/4. Array , String.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/3. operator & control statement.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/2.variable , data types, wrapper class & I-O.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/1.introduction.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/$questions.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/9.interface & enum , genrics.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/13.garbage collection.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/14.collection framwork.md",
-    "SOFTWARE/CORE/DSA/6.stack.md",
-    "SOFTWARE/PROGRAMMING LANGUAGE/JAVA/12.file handling.md",
     "Pasted image 20250425153213.png",
     "Pasted image 20250420193515.png",
     "Pasted image 20250420193446.png",
     "Pasted image 20250420084728.png",
     "Pasted image 20250420083351.png",
     "_resource/Pasted image 20250209183309.png",
-    "Pasted image 20250419111811.png",
-    "Pasted image 20250419091946.png",
-    "Pasted image 20250419091638.png",
-    "Pasted image 20250419091600.png",
     "SOFTWARE/ADVANCE",
     "SOFTWARE/BASICS/TOC/Untitled",
     "SOFTWARE/ADVANCE/TOC",
